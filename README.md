@@ -11,8 +11,9 @@ HackFS 2023 is an event bringing together some of the top minds and experts in E
   ![](https://github.com/D50000/EthGlobal-HackFS2023-FanStreamium/blob/main/assets/poap.jpg)
 
 - Certificate  
-  ![](https://github.com/D50000/EthGlobal-HackFS2023-FanStreamium/blob/main/assets/certificate.jpg)
-
+  ![](https://github.com/D50000/EthGlobal-HackFS2023-FanStreamium/blob/main/assets/certificate.jpg)  
+  
+====================== Project Detail ======================  
 # FanStreamium
 
 LOGO:  
