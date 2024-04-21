@@ -15,7 +15,7 @@ HackFS 2023 is an event bringing together some of the top minds and experts in E
 
   
 ====================== Project Detail ======================  
-# Project Name: FanStreamium
+# Project Name: [FanStreamium](https://ethglobal.com/showcase/fanstreamium-206rg)
 
 LOGO:  
 ![](https://github.com/UranusLin/FanStreamium/blob/main/assets/logo.jpg)
