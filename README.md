@@ -1,6 +1,17 @@
+# [ETHGlobal-HackFS](https://ethglobal.com/events/hackfs2023)
+![](https://github.com/D50000/EthGlobal-HackFS2023-FanStreamium/blob/main/assets/hackFS.jpg)  
+HackFS 2023 is an event bringing together some of the top minds and experts in Ethereum Ecosystem. We enable teams to make something great in only 3 weeks by providing an abundance of web3 resources like mentors, sponsors, and software.
 
+## [Project Ideas, Competition Rules](https://ethglobal.com/events/hackfs2023/prizes)
+- Prize and Categories  
+![](https://github.com/D50000/EthGlobal-HackFS2023-FanStreamium/blob/main/assets/prizes.jpg)
+
+## Competition Result:
 - [Proof of Attendance Protocol](https://collectors.poap.xyz/scan/0xc8601255383d5ccdcfae9bc42f837fd57e300812)  
-  ![](https://github.com/UranusLin/FanStreamium/blob/main/assets/poap.jpg)
+  ![](https://github.com/D50000/EthGlobal-HackFS2023-FanStreamium/blob/main/assets/poap.jpg)
+
+- Certificate  
+  ![](https://github.com/D50000/EthGlobal-HackFS2023-FanStreamium/blob/main/assets/certificate.jpg)
 
 # FanStreamium
 
